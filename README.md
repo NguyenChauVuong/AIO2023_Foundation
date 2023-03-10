@@ -1,3 +1,5 @@
+# **AI Foundation Course - 2023**
+
 ### **Syllabus:** 
 
 |                  Lesson                      |         Content        |
