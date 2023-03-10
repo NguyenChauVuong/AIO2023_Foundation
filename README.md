@@ -2,8 +2,8 @@
 
 ### **Syllabus:** 
 
-|                   Lesson                     |         Content        |
-| -------------------------------------------- |:-----------------------|
+|                  Lesson                      |         Content        |
+| -------------------------------------------- |------------------------|
 | 1. Python                                    | <a href="https://colab.research.google.com/drive/1JTQ4cSO2PcBKNFVfQ71T8XQfGct7XcmQ?usp=sharing"><img class="notebook-badge-image" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 | 2. Numpy| <a href="https://colab.research.google.com/drive/1Fys65eIDES0vFKV0qBnS8hKtQrlm2Ig8?usp=sharing"><img class="notebook-badge-image" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
 | 3. Statistics and Python                     |                        |
